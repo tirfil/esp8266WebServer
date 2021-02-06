@@ -3,4 +3,4 @@ esp8266 + WiFi + WebServer + Ajax + Css + Api
 
 Inspired by Eric Perronin Youtube Videos:
 
-https://m.youtube.com/playlist?list=PLuQznwVAhY2WBKCbDroQeXWFmPYFyIf-_
+https://www.youtube.com/playlist?app=desktop&list=PLuQznwVAhY2WBKCbDroQeXWFmPYFyIf-_
